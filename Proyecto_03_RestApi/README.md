@@ -34,29 +34,15 @@ Permite obtener información de una fuente externa mediante servicios web, demos
 
 ## 6. Capturas de pantalla
 
-### Registro en The Dog API
+### Registro
+![Registrol](Capturas/formulario_registro.png)
 
-[Insertar captura del formulario de registro]
+### Verificacion de Registro
+![verificacion](Capturas/verificacion_correo.png)
 
-### API Key recibida
+### Imagen Husky
+![husky](Capturas/husky.png)
 
-[Insertar captura del correo con la API Key]
-
-### Lista de razas
-
-[Insertar captura mostrando la lista de razas]
-
-### Consulta de imágenes Husky
-
-[Insertar captura mostrando imágenes de Husky]
-
-### Programa completo
-
-[Insertar captura del programa integrado]
-
-### Resultado final
-
-[Insertar captura de la ejecución final]
 
 ## 7. Instrucciones de ejecución
 
