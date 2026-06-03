@@ -74,29 +74,6 @@ Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrar
 
 --- 
 
-### Proyecto 3. Sitio Web Portafolio en WordPress
-
-Sitio web desarrollado en WordPress con páginas informativas, menú de navegación, personalización de tema y publicación de proyectos realizados durante el curso.
-
-**Tecnologías utilizadas:**
-- WordPress
-- HTML
-- CSS
-- Plugins de WordPress
-
----
-
-## Herramientas Utilizadas
-
-- Git
-- GitHub
-- XAMPP
-- phpMyAdmin
-- Moodle
-- Visual Studio Code
-
----
-
 ### Proyecto 4. Consumo de API REST con The Dog API
 
 Aplicación desarrollada en PHP utilizando cURL para consumir servicios REST de The Dog API. Permite obtener información sobre razas de perros y mostrar imágenes dinámicamente desde una API externa.
