@@ -74,7 +74,7 @@ Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrar
 
 --- 
 
-### Proyecto 4. Consumo de API REST con The Dog API
+### Proyecto 3. Consumo de API REST con The Dog API
 
 Aplicación desarrollada en PHP utilizando cURL para consumir servicios REST de The Dog API. Permite obtener información sobre razas de perros y mostrar imágenes dinámicamente desde una API externa.
 
