@@ -46,9 +46,9 @@ Durante el desarrollo de estas actividades se trabajó con diferentes tecnologí
 
 ## Proyectos Incluidos
 
-### Proyecto 1. Sistema de Gestión de Citas
+### Proyecto 1. Mini aplicación Web
 
-Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrarse, iniciar sesión y administrar citas mediante operaciones CRUD. Se implementó una estructura MVC, manejo de sesiones y consultas seguras utilizando PDO.
+Este proyecto es una aplicación web hecha con PHP, HTML y MySQL que tiene como objetivo crear un sistema básico de autenticación de usuarios. El sistema permite que un usuario se registre, luego pueda iniciar sesión y entrar a un panel principal del sistema
 
 **Tecnologías utilizadas:**
 - PHP
@@ -60,18 +60,19 @@ Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrar
 
 ---
 
-### Proyecto 2. Consumo de API REST con The Dog API
+### Proyecto 2. Sistema de Gestión de Citas
 
-Aplicación desarrollada en PHP utilizando cURL para consumir servicios REST de The Dog API. Permite obtener información sobre razas de perros y mostrar imágenes dinámicamente desde una API externa.
+Aplicación web desarrollada en PHP y MySQL que permite a los usuarios registrarse, iniciar sesión y administrar citas mediante operaciones CRUD. Se implementó una estructura MVC, manejo de sesiones y consultas seguras utilizando PDO.
 
 **Tecnologías utilizadas:**
 - PHP
-- REST API
-- cURL
-- JSON
+- MySQL
+- phpMyAdmin
 - HTML
+- CSS
+- XAMPP
 
----
+--- 
 
 ### Proyecto 3. Sitio Web Portafolio en WordPress
 
@@ -93,6 +94,19 @@ Sitio web desarrollado en WordPress con páginas informativas, menú de navegaci
 - phpMyAdmin
 - Moodle
 - Visual Studio Code
+
+---
+
+### Proyecto 4. Consumo de API REST con The Dog API
+
+Aplicación desarrollada en PHP utilizando cURL para consumir servicios REST de The Dog API. Permite obtener información sobre razas de perros y mostrar imágenes dinámicamente desde una API externa.
+
+**Tecnologías utilizadas:**
+- PHP
+- REST API
+- cURL
+- JSON
+- HTML
 
 ---
 
